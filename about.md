@@ -12,7 +12,7 @@ I use the right tools to market your company.
 
 ### How
 
-I produce solutions through my experiences in technology, finance and media sector and my personal network and web skills.
+I produce solutions through my experiences in technology, finance and media sectors with my personal network and web skills.
 
 ### What
 
