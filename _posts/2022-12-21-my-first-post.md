@@ -1,7 +1,11 @@
-layout: post
-title: How I've built my website
-subtitle: quick summary
-categories: Website
+post
+
+How I've built my website
+
+quick summary
+
+Website
+
 tags: [Github, website]
 ---
 
